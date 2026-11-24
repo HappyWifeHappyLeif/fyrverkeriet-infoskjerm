@@ -62,7 +62,6 @@ fetch("events.json")
       data.data
     .filter(event =>
         event.visibility === "visible" &&
-        event.ticket_sale_type === "open"
     )
     .forEach(event => {
 
