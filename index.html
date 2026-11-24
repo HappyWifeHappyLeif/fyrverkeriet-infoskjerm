@@ -62,8 +62,8 @@ fetch("events.json")
       data.data
           .filter(event =>
               event.visibility === "visible"
-    )
-    .forEach(event => {
+          )
+          .forEach(event => {
 
             const div = document.createElement("div");
             <div class="date">
