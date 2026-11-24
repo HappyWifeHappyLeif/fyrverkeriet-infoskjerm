@@ -21,8 +21,8 @@ jobs:
       - run: pip install requests
 
       - run: python fetch_events.py
-        env:
-          DX_TOKEN: ${{ secrets.DX_TOKEN }}
+          env:
+            DX_TOKEN: ${{ secrets.DX_TOKEN }}
 
       - name: Commit updates
         run: |
