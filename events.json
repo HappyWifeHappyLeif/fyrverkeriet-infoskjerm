@@ -775,6 +775,69 @@
       "note": "<p>Film som vises: Life of Pi</p>"
     },
     {
+      "id": 1550000005551,
+      "partner_id": 155,
+      "renter_id": 174,
+      "event_id": 5551,
+      "order_id": 3364,
+      "type": "20",
+      "type_text": "Annet",
+      "type_id": 52,
+      "visibility": "hidden",
+      "ticket_sale_type": "closed",
+      "ticket_sale_type_id": 2,
+      "production_reference": "3364",
+      "title": "Sentraladministrasjonen KJØKKEN",
+      "begin": "2026-11-27 16:00:00",
+      "end": "2026-11-27 22:00:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 174
+      },
+      "location": {
+        "id": 6,
+        "name": "SALONGEN",
+        "begin": "2026-11-27 16:00:00",
+        "end": "2026-11-27 22:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5551,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2024-03-02 00:00:00",
+          "end_web": null,
+          "web": false,
+          "sold": 0,
+          "capacity": 0,
+          "reserved": 0,
+          "available": 0,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 555100010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": null,
+      "purchase_url": "https://checkout.ebillett.no/155/events/5551/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5551/purchase?kanal=dxf",
+      "timestamp": "2026-11-25 13:26:38",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": "<p>onsdag 14. oktober 2026 12:55<br>Til: Daiva Lesinskaite &lt;daiva.lesinskaite@vestre-toten.kommune.no&gt;<br>Emne: Kulturhus kjøkken - ledig fredag 27/11?<br> </p>\n<p>Hei</p>\n<p> </p>\n<p>Vi holder på med planlegging av julebord. Kari Børthus er i front når det gjelder mat, og vi skal lage tapas selv. Er det mulig at vi kan låne kjøkkenet til dette fra klokken 15:00 fredag 27/11? Kari er godt kjent med alt utstyr og rutiner, og vi skal selvsagt rydde opp alt etter oss ?</p>\n<p> </p>\n<p>?<br>Med vennlig hilsen </p>\n<p>Tom Erik Støen Østli </p>"
+    },
+    {
       "id": 1550000005549,
       "partner_id": 155,
       "renter_id": 17,
@@ -976,7 +1039,7 @@
       },
       "purchase_url": "https://checkout.ebillett.no/155/events/5415/purchase?kanal=dxf",
       "purchase_url_always": "https://checkout.ebillett.no/155/events/5415/purchase?kanal=dxf",
-      "timestamp": "2026-11-25 12:11:55",
+      "timestamp": "2026-11-25 13:11:33",
       "advertisement_flags": [],
       "advertisement_flags_view": [],
       "event_tags": [],
@@ -1756,69 +1819,6 @@
       "advertisement_flags_view": [],
       "event_tags": [],
       "note": "<p>Film som vises: Little Women</p>"
-    },
-    {
-      "id": 1550000005558,
-      "partner_id": 155,
-      "renter_id": 148,
-      "event_id": 5558,
-      "order_id": 3371,
-      "type": "JUL",
-      "type_text": "Juletrefest",
-      "type_id": 47,
-      "visibility": "hidden",
-      "ticket_sale_type": "closed",
-      "ticket_sale_type_id": 2,
-      "production_reference": "3371",
-      "title": "Vestrumenga b.hage juletrefest",
-      "begin": "2026-12-12 10:00:00",
-      "end": "2026-12-12 17:00:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 148
-      },
-      "location": {
-        "id": 2,
-        "name": "KOMMUNESTYRESAL",
-        "begin": "2026-12-12 10:00:00",
-        "end": "2026-12-12 17:00:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5558,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-03-17 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 0,
-          "reserved": 0,
-          "available": 0,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 555800010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": null,
-      "purchase_url": "https://checkout.ebillett.no/155/events/5558/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5558/purchase?kanal=dxf",
-      "timestamp": "2026-11-03 14:44:10",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": "<p>Epost Suzanne F Westrum 28/10 Vi skal ha juletrefest for barnehagen Vestrumenga og lurer på om kommunestyresalen er ledig 12. desember kl. 14-16?</p>\n<p>Svart Prisen for leie på helg er 3000 kr. Det er ledig 12/12, jeg har reservert fra 12-17, så det er tid til å gjøre klart og å rydde opp igjen etterpå.</p>\n<p>Epost Suzanne 3/11 Det takker vi ja til, og jeg kan stå ansvarlig. </p>"
     }
   ]
 }
