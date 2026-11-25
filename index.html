@@ -22,7 +22,7 @@ h1{
 
 .event{
     background:#222;
-    margin-bottom:20px;
+    margin-bottom:40px;
     padding:20px;
     border-radius:12px;
 }
@@ -64,12 +64,7 @@ data.data
   .forEach(event => {
 
     const div = document.createElement("div");
-
-    let sted = "";
-
-    if(event.location && event.location.name){
-        sted = event.location.name;
-    }
+    div.className = "event";
 
     div.innerHTML = `
       <div class="title">${event.title}</div>
@@ -83,7 +78,6 @@ data.data
     month: 'long',
   })}
 </div>
-      <div class="location">${sted}</div>
     `;
 
     container.appendChild(div);
