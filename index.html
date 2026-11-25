@@ -59,12 +59,7 @@ fetch("events.json")
 
         const container = document.getElementById("events");
 
-      data.data
-          .filter(event =>
-              event.visibility === "visible" &&
-              event.ticket_sale_type === "open"
-          )
-          .forEach(event => {
+      data.data.forEach(event => {
 
             const div = document.createElement("div");
             <div class="date">
