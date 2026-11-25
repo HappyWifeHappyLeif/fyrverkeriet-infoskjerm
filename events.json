@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 53,
+    "total": 50,
     "page_size": "20",
     "page_number": 1,
     "pages": 3,
@@ -10,299 +10,6 @@
     "to": 20
   },
   "data": [
-    {
-      "id": 1550000005247,
-      "partner_id": 155,
-      "renter_id": 19,
-      "event_id": 5247,
-      "order_id": 3116,
-      "type": "ØVE",
-      "type_text": "Øvelse",
-      "type_id": 28,
-      "visibility": "hidden",
-      "ticket_sale_type": "closed",
-      "ticket_sale_type_id": 2,
-      "production_reference": "3116",
-      "title": "Vestre Toten barne- og ungdomsteater; Øvelse",
-      "begin": "2026-11-25 16:00:00",
-      "end": "2026-11-25 21:00:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 19
-      },
-      "location": {
-        "id": 1,
-        "name": "FYRVERKERISALEN",
-        "begin": "2026-11-25 16:00:00",
-        "end": "2026-11-25 21:00:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5247,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-02-29 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 428,
-          "reserved": 0,
-          "available": 428,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 524700010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": null,
-      "purchase_url": "https://checkout.ebillett.no/155/events/5247/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5247/purchase?kanal=dxf",
-      "timestamp": "2026-01-14 09:56:19",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": "<p>Reservert 14. januar 2026 - Torhild</p>"
-    },
-    {
-      "id": 1550000005409,
-      "partner_id": 155,
-      "renter_id": 16,
-      "event_id": 5409,
-      "order_id": 3278,
-      "type": "Kon",
-      "type_text": "Konsert",
-      "type_id": 12,
-      "visibility": "visible",
-      "ticket_sale_type": "open",
-      "ticket_sale_type_id": 1,
-      "production_reference": "3278",
-      "title": "Konsert med sangelevene på Fyrverkeriet kulturskole",
-      "begin": "2026-11-25 16:00:00",
-      "end": "2026-11-25 18:30:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 16
-      },
-      "location": {
-        "id": 6,
-        "name": "SALONGEN",
-        "begin": "2026-11-25 16:00:00",
-        "end": "2026-11-25 18:30:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5409,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-02-29 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 0,
-          "reserved": 0,
-          "available": 0,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 540900010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": {
-        "id": 90497,
-        "short_reference": "c6xdr1",
-        "reference": "3278",
-        "tags": null,
-        "parent_id": null,
-        "parent_reference": null,
-        "created_at": "2026-09-07T11:38:16.0000000",
-        "updated_at": "2026-09-07T11:38:34.0000000",
-        "title": "Konsert kulturskole",
-        "slug": "konsert-kulturskole",
-        "title_original": null,
-        "language_iso": null,
-        "subtitle_iso": null,
-        "contents": [
-          {
-            "id": 72930,
-            "language_id": 1,
-            "summary": null,
-            "body": "<p>Fyrverkeriet kulturskole inviterer til en hyggelig sangkveld på salongscenen i kulturhuset!<br><br>Denne kvelden får du høre sangelever i alle aldre og på ulike nivå – fra første konsertnerver til mer erfarne spillere. Her er det plass til prøving og feiling, store smil og masse spilleglede  <br><br>Ta med familie, venner, besteforeldre og naboer, og bli med og hei fram de unge musikerne våre!<br><br>Gratis inngang – åpent for alle<br><br>Velkommen til en varm og uformell konsertkveld sammen med oss i kulturskolen!</p>"
-          }
-        ],
-        "assets": [
-          {
-            "id": 222228,
-            "type_id": 1,
-            "type": "poster",
-            "url": "https://mff.dx.no/210223.jpg",
-            "sort_number": 9999,
-            "extension": "jpg",
-            "width": 2121,
-            "height": 3000,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          },
-          {
-            "id": 222230,
-            "type_id": 2,
-            "type": "image",
-            "url": "https://mff.dx.no/210225.jpg",
-            "sort_number": 9999,
-            "extension": "jpg",
-            "width": 4500,
-            "height": 3182,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          }
-        ]
-      },
-      "purchase_url": "https://checkout.ebillett.no/155/events/5409/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5409/purchase?kanal=dxf",
-      "timestamp": "2026-09-07 11:39:38",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": ""
-    },
-    {
-      "id": 1550000005366,
-      "partner_id": 155,
-      "renter_id": 37,
-      "event_id": 5366,
-      "order_id": 3233,
-      "type": "LIT",
-      "type_text": "Litteraturarr.",
-      "type_id": 20,
-      "visibility": "visible",
-      "ticket_sale_type": "open",
-      "ticket_sale_type_id": 1,
-      "production_reference": "3233",
-      "title": "Diktsalongen",
-      "begin": "2026-11-25 17:00:00",
-      "end": "2026-11-25 18:00:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 37
-      },
-      "location": {
-        "id": 11,
-        "name": "FYRVERKERIET BIBLIOTEK",
-        "begin": "2026-11-25 17:00:00",
-        "end": "2026-11-25 18:00:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5366,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-02-29 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 0,
-          "reserved": 0,
-          "available": 0,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 536600010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": {
-        "id": 86417,
-        "short_reference": "ft1a2p",
-        "reference": "3233",
-        "tags": null,
-        "parent_id": null,
-        "parent_reference": null,
-        "created_at": "2026-04-30T13:52:21.0000000",
-        "updated_at": "2026-04-30T13:53:08.0000000",
-        "title": "Diktsalongen",
-        "slug": "diktsalongen",
-        "title_original": null,
-        "language_iso": null,
-        "subtitle_iso": null,
-        "contents": [
-          {
-            "id": 69511,
-            "language_id": 1,
-            "summary": "Først forteller vi om ei bok. Deretter viser vi film basert på boka!",
-            "body": null
-          }
-        ],
-        "assets": [
-          {
-            "id": 212251,
-            "type_id": 1,
-            "type": "poster",
-            "url": "https://mff.dx.no/199072.jpg",
-            "sort_number": 9999,
-            "extension": "jpg",
-            "width": 1587,
-            "height": 2245,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          },
-          {
-            "id": 212252,
-            "type_id": 2,
-            "type": "image",
-            "url": "https://mff.dx.no/199073.jpg",
-            "sort_number": 9999,
-            "extension": "jpg",
-            "width": 1920,
-            "height": 1080,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          }
-        ]
-      },
-      "purchase_url": "https://checkout.ebillett.no/155/events/5366/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5366/purchase?kanal=dxf",
-      "timestamp": "2026-04-30 13:53:19",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": ""
-    },
     {
       "id": 1550000005541,
       "partner_id": 155,
@@ -1819,6 +1526,317 @@
       "advertisement_flags_view": [],
       "event_tags": [],
       "note": "<p>Film som vises: Little Women</p>"
+    },
+    {
+      "id": 1550000005558,
+      "partner_id": 155,
+      "renter_id": 148,
+      "event_id": 5558,
+      "order_id": 3371,
+      "type": "JUL",
+      "type_text": "Juletrefest",
+      "type_id": 47,
+      "visibility": "hidden",
+      "ticket_sale_type": "closed",
+      "ticket_sale_type_id": 2,
+      "production_reference": "3371",
+      "title": "Vestrumenga b.hage juletrefest",
+      "begin": "2026-12-12 10:00:00",
+      "end": "2026-12-12 17:00:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 148
+      },
+      "location": {
+        "id": 2,
+        "name": "KOMMUNESTYRESAL",
+        "begin": "2026-12-12 10:00:00",
+        "end": "2026-12-12 17:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5558,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2024-03-17 00:00:00",
+          "end_web": null,
+          "web": false,
+          "sold": 0,
+          "capacity": 0,
+          "reserved": 0,
+          "available": 0,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 555800010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": null,
+      "purchase_url": "https://checkout.ebillett.no/155/events/5558/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5558/purchase?kanal=dxf",
+      "timestamp": "2026-11-03 14:44:10",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": "<p>Epost Suzanne F Westrum 28/10 Vi skal ha juletrefest for barnehagen Vestrumenga og lurer på om kommunestyresalen er ledig 12. desember kl. 14-16?</p>\n<p>Svart Prisen for leie på helg er 3000 kr. Det er ledig 12/12, jeg har reservert fra 12-17, så det er tid til å gjøre klart og å rydde opp igjen etterpå.</p>\n<p>Epost Suzanne 3/11 Det takker vi ja til, og jeg kan stå ansvarlig. </p>"
+    },
+    {
+      "id": 1550000005280,
+      "partner_id": 155,
+      "renter_id": 25,
+      "event_id": 5280,
+      "order_id": 3147,
+      "type": "3",
+      "type_text": "Dans",
+      "type_id": 14,
+      "visibility": "hidden",
+      "ticket_sale_type": "closed",
+      "ticket_sale_type_id": 2,
+      "production_reference": "3147",
+      "title": "Dance4Fun Juleshow øving",
+      "begin": "2026-12-12 14:00:00",
+      "end": "2026-12-12 16:00:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 25
+      },
+      "location": {
+        "id": 1,
+        "name": "FYRVERKERISALEN",
+        "begin": "2026-12-12 09:00:00",
+        "end": "2026-12-12 18:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5280,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2024-03-17 00:00:00",
+          "end_web": null,
+          "web": false,
+          "sold": 0,
+          "capacity": 0,
+          "reserved": 0,
+          "available": 0,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 528000010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": {
+        "id": 91580,
+        "short_reference": "y8d1ss",
+        "reference": "3147",
+        "tags": null,
+        "parent_id": null,
+        "parent_reference": null,
+        "created_at": "2026-10-03T11:24:10.0000000",
+        "updated_at": "2026-10-03T11:41:56.0000000",
+        "title": "Dance4Fun Juleshow ØVELSE",
+        "slug": "dance4fun-juleshow-ovelse",
+        "title_original": null,
+        "language_iso": null,
+        "subtitle_iso": null,
+        "contents": [
+          {
+            "id": 73770,
+            "language_id": 1,
+            "summary": null,
+            "body": "<p>Vi gleder oss til å se nettopp deg i salen!</p>"
+          }
+        ],
+        "assets": [
+          {
+            "id": 224793,
+            "type_id": 1,
+            "type": "poster",
+            "url": "https://mff.dx.no/213153.jpeg",
+            "sort_number": 9999,
+            "extension": "jpeg",
+            "width": 1080,
+            "height": 1920,
+            "focal_point_z": null,
+            "focal_point_y": null,
+            "focal_point_x": null,
+            "tags": []
+          },
+          {
+            "id": 224797,
+            "type_id": 2,
+            "type": "image",
+            "url": "https://mff.dx.no/213157.jpeg",
+            "sort_number": 9999,
+            "extension": "jpeg",
+            "width": 1080,
+            "height": 649,
+            "focal_point_z": null,
+            "focal_point_y": null,
+            "focal_point_x": null,
+            "tags": []
+          }
+        ]
+      },
+      "purchase_url": "https://checkout.ebillett.no/155/events/5280/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5280/purchase?kanal=dxf",
+      "timestamp": "2026-11-03 14:47:17",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": ""
+    },
+    {
+      "id": 1550000005281,
+      "partner_id": 155,
+      "renter_id": 25,
+      "event_id": 5281,
+      "order_id": 3147,
+      "type": "3",
+      "type_text": "Dans",
+      "type_id": 14,
+      "visibility": "visible",
+      "ticket_sale_type": "normal",
+      "ticket_sale_type_id": 0,
+      "production_reference": "3147",
+      "title": "Dance4Fun Showtime 12:00",
+      "begin": "2026-12-13 12:00:00",
+      "end": "2026-12-13 13:30:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 25
+      },
+      "location": {
+        "id": 1,
+        "name": "FYRVERKERISALEN",
+        "begin": "2026-12-13 08:00:00",
+        "end": "2026-12-13 16:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5281,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2026-10-02 12:56:17",
+          "end_web": null,
+          "web": true,
+          "sold": 93,
+          "capacity": 408,
+          "reserved": 0,
+          "available": 315,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 528100010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            },
+            {
+              "id": 528100017,
+              "price_category_definition_id": 17,
+              "name": "Ledsager",
+              "price": 0
+            },
+            {
+              "id": 528100138,
+              "price_category_definition_id": 138,
+              "name": "Ordinær",
+              "price": 16000
+            },
+            {
+              "id": 528100173,
+              "price_category_definition_id": 173,
+              "name": "Barn under 13",
+              "price": 11000
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": {
+        "id": 91580,
+        "short_reference": "y8d1ss",
+        "reference": "3147",
+        "tags": null,
+        "parent_id": null,
+        "parent_reference": null,
+        "created_at": "2026-10-03T11:24:10.0000000",
+        "updated_at": "2026-10-03T11:41:56.0000000",
+        "title": "Dance4Fun Juleshow ØVELSE",
+        "slug": "dance4fun-juleshow-ovelse",
+        "title_original": null,
+        "language_iso": null,
+        "subtitle_iso": null,
+        "contents": [
+          {
+            "id": 73770,
+            "language_id": 1,
+            "summary": null,
+            "body": "<p>Vi gleder oss til å se nettopp deg i salen!</p>"
+          }
+        ],
+        "assets": [
+          {
+            "id": 224793,
+            "type_id": 1,
+            "type": "poster",
+            "url": "https://mff.dx.no/213153.jpeg",
+            "sort_number": 9999,
+            "extension": "jpeg",
+            "width": 1080,
+            "height": 1920,
+            "focal_point_z": null,
+            "focal_point_y": null,
+            "focal_point_x": null,
+            "tags": []
+          },
+          {
+            "id": 224797,
+            "type_id": 2,
+            "type": "image",
+            "url": "https://mff.dx.no/213157.jpeg",
+            "sort_number": 9999,
+            "extension": "jpeg",
+            "width": 1080,
+            "height": 649,
+            "focal_point_z": null,
+            "focal_point_y": null,
+            "focal_point_x": null,
+            "tags": []
+          }
+        ]
+      },
+      "purchase_url": "https://checkout.ebillett.no/155/events/5281/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5281/purchase?kanal=dxf",
+      "timestamp": "2026-11-25 22:03:45",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": ""
     }
   ]
 }
