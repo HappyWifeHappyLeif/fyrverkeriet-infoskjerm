@@ -59,24 +59,27 @@ fetch("events.json")
 
         const container = document.getElementById("events");
 
-      data.data.forEach(event => {
+data.data
+  .filter(event => event.visibility === "visible")
+  .forEach(event => {
 
-       .filter(event => event.visibility === "visible")
-       .forEach(event => {
+    const div = document.createElement("div");
 
-        const div = document.createElement("div");
+    let sted = "";
 
-        let sted = "";
+    if(event.location && event.location.name){
+        sted = event.location.name;
+    }
 
-            if(event.location && event.location.name){
-                sted = event.location.name;
-            }
+    div.innerHTML = `
+      <div class="title">${event.title}</div>
+      <div class="date">${event.begin}</div>
+      <div class="location">${sted}</div>
+    `;
 
-            div.innerHTML = `
-                <div class="title">${event.title}</div>
-                <div class="date">${event.begin}</div>
-                <div class="location">${sted}</div>
-            `;
+    container.appendChild(div);
+
+});
 
             container.appendChild(div);
 
