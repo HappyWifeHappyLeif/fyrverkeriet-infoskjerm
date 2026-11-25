@@ -69,11 +69,11 @@ data.data
     div.innerHTML = `
       <div class="title">${event.title}</div>
       <div class="date">
-  ${new Date(event.begin).toLocaleTimeString('nb-NO', {
+  ${new Date(event.begin).toLocaleDateString('nb-NO', {
     day: 'numeric',
     month: 'long',
   })}
-  ${new Date(event.begin).toLocaleDateString('nb-NO', {
+  ${new Date(event.begin).toLocaleTimeString('nb-NO', {
     hour: '2-digit',
     minute: '2-digit'
   })}
