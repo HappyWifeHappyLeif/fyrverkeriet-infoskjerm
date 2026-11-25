@@ -61,10 +61,12 @@ fetch("events.json")
 
       data.data.forEach(event => {
 
-            const div = document.createElement("div");
-           
+       .filter(event => event.visibility === "visible")
+       .forEach(event => {
 
-            let sted = "";
+        const div = document.createElement("div");
+
+        let sted = "";
 
             if(event.location && event.location.name){
                 sted = event.location.name;
