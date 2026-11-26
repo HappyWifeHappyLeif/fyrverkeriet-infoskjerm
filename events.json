@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 50,
+    "total": 46,
     "page_size": "20",
     "page_number": 1,
     "pages": 3,
@@ -10,362 +10,6 @@
     "to": 20
   },
   "data": [
-    {
-      "id": 1550000005541,
-      "partner_id": 155,
-      "renter_id": 179,
-      "event_id": 5541,
-      "order_id": 3357,
-      "type": "MØT",
-      "type_text": "Møte",
-      "type_id": 21,
-      "visibility": "hidden",
-      "ticket_sale_type": "closed",
-      "ticket_sale_type_id": 2,
-      "production_reference": "3357",
-      "title": "Frokostmøte Utdanningsforbundet",
-      "begin": "2026-11-26 08:00:00",
-      "end": "2026-11-26 11:00:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 179
-      },
-      "location": {
-        "id": 6,
-        "name": "SALONGEN",
-        "begin": "2026-11-26 08:00:00",
-        "end": "2026-11-26 11:00:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5541,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-03-01 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 0,
-          "reserved": 0,
-          "available": 0,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 554100010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": null,
-      "purchase_url": "https://checkout.ebillett.no/155/events/5541/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5541/purchase?kanal=dxf",
-      "timestamp": "2026-10-15 08:54:00",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": ""
-    },
-    {
-      "id": 1550000005093,
-      "partner_id": 155,
-      "renter_id": 76,
-      "event_id": 5093,
-      "order_id": 3030,
-      "type": "MØT",
-      "type_text": "Møte",
-      "type_id": 21,
-      "visibility": "hidden",
-      "ticket_sale_type": "closed",
-      "ticket_sale_type_id": 2,
-      "production_reference": "3030",
-      "title": "Kommunestyremøte",
-      "begin": "2026-11-26 09:00:00",
-      "end": "2026-11-26 15:00:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 76
-      },
-      "location": {
-        "id": 2,
-        "name": "KOMMUNESTYRESAL",
-        "begin": "2026-11-26 08:00:00",
-        "end": "2026-11-26 16:00:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5093,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-03-01 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 100,
-          "reserved": 0,
-          "available": 100,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 509300010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": null,
-      "purchase_url": "https://checkout.ebillett.no/155/events/5093/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5093/purchase?kanal=dxf",
-      "timestamp": "2025-11-06 11:27:32",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": "Reservert 28. oktober 2025 - Torhild\n\nBestilt av Tom Erik Støen Østli"
-    },
-    {
-      "id": 1550000005469,
-      "partner_id": 155,
-      "renter_id": 37,
-      "event_id": 5469,
-      "order_id": 3322,
-      "type": "LIT",
-      "type_text": "Litteraturarr.",
-      "type_id": 20,
-      "visibility": "visible",
-      "ticket_sale_type": "open",
-      "ticket_sale_type_id": 1,
-      "production_reference": "3322",
-      "title": "Litterært kvarter",
-      "begin": "2026-11-26 12:00:00",
-      "end": "2026-11-26 12:15:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 37
-      },
-      "location": {
-        "id": 11,
-        "name": "FYRVERKERIET BIBLIOTEK",
-        "begin": "2026-11-26 12:00:00",
-        "end": "2026-11-26 12:15:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5469,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-03-01 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 80,
-          "reserved": 0,
-          "available": 80,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 546900010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": {
-        "id": 90210,
-        "short_reference": "t3e1bc",
-        "reference": "3322",
-        "tags": null,
-        "parent_id": null,
-        "parent_reference": null,
-        "created_at": "2026-09-01T15:02:22.0000000",
-        "updated_at": "2026-09-07T11:41:25.0000000",
-        "title": "Litterært kvarter",
-        "slug": "litteraert-kvarter",
-        "title_original": null,
-        "language_iso": null,
-        "subtitle_iso": null,
-        "contents": [
-          {
-            "id": 72716,
-            "language_id": 1,
-            "summary": "Hver torsdag i høst, fram til desember starter, får du høre om ei bok i Litterært kvarter! Vi serverer kaffe, te og twist. Vi ønsker nye og gamle tilhørere velkommen til en hyggelig møteplass!",
-            "body": null
-          }
-        ],
-        "assets": [
-          {
-            "id": 221679,
-            "type_id": 1,
-            "type": "poster",
-            "url": "https://mff.dx.no/209637.jpg",
-            "sort_number": 9999,
-            "extension": "jpg",
-            "width": 1587,
-            "height": 2245,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          },
-          {
-            "id": 222232,
-            "type_id": 2,
-            "type": "image",
-            "url": "https://mff.dx.no/210227.png",
-            "sort_number": 9999,
-            "extension": "png",
-            "width": 847,
-            "height": 564,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          }
-        ]
-      },
-      "purchase_url": "https://checkout.ebillett.no/155/events/5469/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5469/purchase?kanal=dxf",
-      "timestamp": "2026-09-01 15:07:40",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": ""
-    },
-    {
-      "id": 1550000005552,
-      "partner_id": 155,
-      "renter_id": 37,
-      "event_id": 5552,
-      "order_id": 3365,
-      "type": "LIT",
-      "type_text": "Litteraturarr.",
-      "type_id": 20,
-      "visibility": "visible",
-      "ticket_sale_type": "open",
-      "ticket_sale_type_id": 1,
-      "production_reference": "3365",
-      "title": "Bokkveld \"Kampene på vestsiden av Mjøsa 1940\"",
-      "begin": "2026-11-26 18:00:00",
-      "end": "2026-11-26 19:15:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 37
-      },
-      "location": {
-        "id": 2,
-        "name": "KOMMUNESTYRESAL",
-        "begin": "2026-11-26 17:00:00",
-        "end": "2026-11-26 20:30:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5552,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-03-01 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 0,
-          "reserved": 0,
-          "available": 0,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 555200010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": {
-        "id": 92373,
-        "short_reference": "k8z4gd",
-        "reference": "3365",
-        "tags": null,
-        "parent_id": null,
-        "parent_reference": null,
-        "created_at": "2026-10-26T08:54:55.0000000",
-        "updated_at": "2026-10-26T08:55:37.0000000",
-        "title": "Bokkveld \"Kampene på vestsiden av Mjøsa 1940\"",
-        "slug": "bokkveld-kampene-pa-vestsiden-av-mjosa-1940",
-        "title_original": null,
-        "language_iso": null,
-        "subtitle_iso": null,
-        "contents": [
-          {
-            "id": 74423,
-            "language_id": 1,
-            "summary": "Forfatter Frank Magnes forteller om sin nye bok \"Kampene på vestsiden av Mjøsa 1940\"",
-            "body": "<p>I april 1940 rykket tyske styrker nordover langs vestsiden av Mjøsa. Denne boka følger kampene og de dramatiske hendelsene. Kveldens foredrag med forfatteren legger vekt på strekningen Eina - Raufoss - Breiskallen - Tobru – Mustad, inkludert Raufoss ammunisjonsfabrikk og Raufoss luftvern.</p>\n<p>Det blir mulighet til å kjøpe boka!</p>\n<p>Gratis inngang.</p>\n<p>Velkommen!</p>"
-          }
-        ],
-        "assets": [
-          {
-            "id": 226746,
-            "type_id": 1,
-            "type": "poster",
-            "url": "https://mff.dx.no/215433.jpg",
-            "sort_number": 9999,
-            "extension": "jpg",
-            "width": 2086,
-            "height": 3024,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          },
-          {
-            "id": 226747,
-            "type_id": 2,
-            "type": "image",
-            "url": "https://mff.dx.no/215434.jpg",
-            "sort_number": 9999,
-            "extension": "jpg",
-            "width": 1536,
-            "height": 1024,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          }
-        ]
-      },
-      "purchase_url": "https://checkout.ebillett.no/155/events/5552/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5552/purchase?kanal=dxf",
-      "timestamp": "2026-10-26 08:56:00",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": ""
-    },
     {
       "id": 1550000005497,
       "partner_id": 155,
@@ -1833,6 +1477,380 @@
       "purchase_url": "https://checkout.ebillett.no/155/events/5281/purchase?kanal=dxf",
       "purchase_url_always": "https://checkout.ebillett.no/155/events/5281/purchase?kanal=dxf",
       "timestamp": "2026-11-26 21:31:45",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": ""
+    },
+    {
+      "id": 1550000005282,
+      "partner_id": 155,
+      "renter_id": 25,
+      "event_id": 5282,
+      "order_id": 3147,
+      "type": "3",
+      "type_text": "Dans",
+      "type_id": 14,
+      "visibility": "visible",
+      "ticket_sale_type": "normal",
+      "ticket_sale_type_id": 0,
+      "production_reference": "3147",
+      "title": "Dance4Fun Showtime 15:00",
+      "begin": "2026-12-13 15:00:00",
+      "end": "2026-12-13 16:30:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 25
+      },
+      "location": {
+        "id": 1,
+        "name": "FYRVERKERISALEN",
+        "begin": "2026-12-12 16:00:00",
+        "end": "2026-12-13 21:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5282,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2026-10-02 13:02:50",
+          "end_web": null,
+          "web": true,
+          "sold": 80,
+          "capacity": 408,
+          "reserved": 0,
+          "available": 328,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 528200010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            },
+            {
+              "id": 528200017,
+              "price_category_definition_id": 17,
+              "name": "Ledsager",
+              "price": 0
+            },
+            {
+              "id": 528200138,
+              "price_category_definition_id": 138,
+              "name": "Ordinær",
+              "price": 16000
+            },
+            {
+              "id": 528200173,
+              "price_category_definition_id": 173,
+              "name": "Barn under 13",
+              "price": 11000
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": {
+        "id": 91580,
+        "short_reference": "y8d1ss",
+        "reference": "3147",
+        "tags": null,
+        "parent_id": null,
+        "parent_reference": null,
+        "created_at": "2026-10-03T11:24:10.0000000",
+        "updated_at": "2026-10-03T11:41:56.0000000",
+        "title": "Dance4Fun Juleshow ØVELSE",
+        "slug": "dance4fun-juleshow-ovelse",
+        "title_original": null,
+        "language_iso": null,
+        "subtitle_iso": null,
+        "contents": [
+          {
+            "id": 73770,
+            "language_id": 1,
+            "summary": null,
+            "body": "<p>Vi gleder oss til å se nettopp deg i salen!</p>"
+          }
+        ],
+        "assets": [
+          {
+            "id": 224793,
+            "type_id": 1,
+            "type": "poster",
+            "url": "https://mff.dx.no/213153.jpeg",
+            "sort_number": 9999,
+            "extension": "jpeg",
+            "width": 1080,
+            "height": 1920,
+            "focal_point_z": null,
+            "focal_point_y": null,
+            "focal_point_x": null,
+            "tags": []
+          },
+          {
+            "id": 224797,
+            "type_id": 2,
+            "type": "image",
+            "url": "https://mff.dx.no/213157.jpeg",
+            "sort_number": 9999,
+            "extension": "jpeg",
+            "width": 1080,
+            "height": 649,
+            "focal_point_z": null,
+            "focal_point_y": null,
+            "focal_point_x": null,
+            "tags": []
+          }
+        ]
+      },
+      "purchase_url": "https://checkout.ebillett.no/155/events/5282/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5282/purchase?kanal=dxf",
+      "timestamp": "2026-11-26 21:33:47",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": ""
+    },
+    {
+      "id": 1550000005166,
+      "partner_id": 155,
+      "renter_id": 174,
+      "event_id": 5166,
+      "order_id": 3051,
+      "type": "MØT",
+      "type_text": "Møte",
+      "type_id": 21,
+      "visibility": "hidden",
+      "ticket_sale_type": "closed",
+      "ticket_sale_type_id": 2,
+      "production_reference": "3051",
+      "title": "Kommunedirektørens ledermøte",
+      "begin": "2026-12-14 08:00:00",
+      "end": "2026-12-14 16:00:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 174
+      },
+      "location": {
+        "id": 2,
+        "name": "KOMMUNESTYRESAL",
+        "begin": "2026-12-14 08:00:00",
+        "end": "2026-12-14 16:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5166,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2024-03-19 00:00:00",
+          "end_web": null,
+          "web": false,
+          "sold": 0,
+          "capacity": 100,
+          "reserved": 0,
+          "available": 100,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 516600010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": null,
+      "purchase_url": "https://checkout.ebillett.no/155/events/5166/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5166/purchase?kanal=dxf",
+      "timestamp": "2025-11-10 07:32:55",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": "Bestilt av Bjørn Fauchald"
+    },
+    {
+      "id": 1550000005576,
+      "partner_id": 155,
+      "renter_id": 97,
+      "event_id": 5576,
+      "order_id": 3390,
+      "type": "12",
+      "type_text": "Selskap",
+      "type_id": 39,
+      "visibility": "hidden",
+      "ticket_sale_type": "closed",
+      "ticket_sale_type_id": 2,
+      "production_reference": "3390",
+      "title": "Raufoss bridgeklubb",
+      "begin": "2026-12-14 17:00:00",
+      "end": "2026-12-14 23:00:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 97
+      },
+      "location": {
+        "id": 2,
+        "name": "KOMMUNESTYRESAL",
+        "begin": "2026-12-14 17:00:00",
+        "end": "2026-12-14 23:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5576,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2024-03-19 00:00:00",
+          "end_web": null,
+          "web": false,
+          "sold": 0,
+          "capacity": 0,
+          "reserved": 0,
+          "available": 0,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 557600010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": null,
+      "purchase_url": "https://checkout.ebillett.no/155/events/5576/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5576/purchase?kanal=dxf",
+      "timestamp": "2026-11-25 08:46:55",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": "<p>Reservert av Mona 24.11.26<br><br>Raufoss bridgeklubb har bedt om å låne kst mandag 14. desember på kvelden. De skal ha spillkveld og julebord. Har gitt beskjed om at de da må leie salen og at prisen er 1500 kr.</p>"
+    },
+    {
+      "id": 1550000005483,
+      "partner_id": 155,
+      "renter_id": 37,
+      "event_id": 5483,
+      "order_id": 3323,
+      "type": "20",
+      "type_text": "Annet",
+      "type_id": 52,
+      "visibility": "visible",
+      "ticket_sale_type": "open",
+      "ticket_sale_type_id": 1,
+      "production_reference": "3323",
+      "title": "Avlogga",
+      "begin": "2026-12-14 18:00:00",
+      "end": "2026-12-14 19:00:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 37
+      },
+      "location": {
+        "id": 11,
+        "name": "FYRVERKERIET BIBLIOTEK",
+        "begin": "2026-12-14 18:00:00",
+        "end": "2026-12-14 19:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5483,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2024-03-19 00:00:00",
+          "end_web": null,
+          "web": false,
+          "sold": 0,
+          "capacity": 80,
+          "reserved": 0,
+          "available": 80,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 548300010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": {
+        "id": 90227,
+        "short_reference": "cq8m2m",
+        "reference": "3323",
+        "tags": null,
+        "parent_id": null,
+        "parent_reference": null,
+        "created_at": "2026-09-02T08:05:20.0000000",
+        "updated_at": "2026-09-02T08:08:18.0000000",
+        "title": "Avlogga",
+        "slug": "avlogga",
+        "title_original": null,
+        "language_iso": null,
+        "subtitle_iso": null,
+        "contents": [
+          {
+            "id": 72727,
+            "language_id": 1,
+            "summary": "Sliter du med å legge fra deg telefonen? Ta grep på en enkel måte! Kom på biblioteket på mandagskveldene og finn på noe annet å gjøre. Du kan ta med deg noe å drive med, låne en bok å lese i, et spill å spille eller et ark å fargelegge. Kom alene eller med noen.\n\nDet blir enkel servering og dempet musikk.\n\nVelkommen!",
+            "body": null
+          }
+        ],
+        "assets": [
+          {
+            "id": 221711,
+            "type_id": 1,
+            "type": "poster",
+            "url": "https://mff.dx.no/209675.jpg",
+            "sort_number": 9999,
+            "extension": "jpg",
+            "width": 1414,
+            "height": 2000,
+            "focal_point_z": null,
+            "focal_point_y": null,
+            "focal_point_x": null,
+            "tags": []
+          },
+          {
+            "id": 221712,
+            "type_id": 2,
+            "type": "image",
+            "url": "https://mff.dx.no/209676.jpg",
+            "sort_number": 9999,
+            "extension": "jpg",
+            "width": 1920,
+            "height": 1080,
+            "focal_point_z": null,
+            "focal_point_y": null,
+            "focal_point_x": null,
+            "tags": []
+          }
+        ]
+      },
+      "purchase_url": "https://checkout.ebillett.no/155/events/5483/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5483/purchase?kanal=dxf",
+      "timestamp": "2026-09-02 08:10:51",
       "advertisement_flags": [],
       "advertisement_flags_view": [],
       "event_tags": [],
