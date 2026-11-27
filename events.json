@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total": 46,
+    "total": 44,
     "page_size": "20",
     "page_number": 1,
     "pages": 3,
@@ -10,184 +10,6 @@
     "to": 20
   },
   "data": [
-    {
-      "id": 1550000005497,
-      "partner_id": 155,
-      "renter_id": 37,
-      "event_id": 5497,
-      "order_id": 3331,
-      "type": "14",
-      "type_text": "Filmvisning",
-      "type_id": 41,
-      "visibility": "visible",
-      "ticket_sale_type": "open",
-      "ticket_sale_type_id": 1,
-      "production_reference": "3331",
-      "title": "Babyfilm",
-      "begin": "2026-11-27 10:00:00",
-      "end": "2026-11-27 12:00:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 37
-      },
-      "location": {
-        "id": 1,
-        "name": "FYRVERKERISALEN",
-        "begin": "2026-11-27 08:00:00",
-        "end": "2026-11-27 12:30:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5497,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-03-02 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 428,
-          "reserved": 0,
-          "available": 428,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 549700010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": {
-        "id": 91266,
-        "short_reference": "cb49sp",
-        "reference": "3331",
-        "tags": null,
-        "parent_id": null,
-        "parent_reference": null,
-        "created_at": "2026-09-24T16:28:44.0000000",
-        "updated_at": "2026-09-24T16:32:32.0000000",
-        "title": "Babyfilm",
-        "slug": "babyfilm",
-        "title_original": null,
-        "language_iso": null,
-        "subtitle_iso": null,
-        "contents": [
-          {
-            "id": 73533,
-            "language_id": 1,
-            "summary": null,
-            "body": "<p>Velkommen til babyfilm i Fyrverkerisalen!<br>Gratis – Bare møt opp!</p>\n<p>Her kan foreldre og foresatte med barn i alderen 0–2 år se film i hyggelige og avslappede omgivelser sammen med andre småbarnsforeldre.</p>\n<p>Filmene som vises er for voksne. Vi demper lyd og lys i salen slik at det skal bli behagelig for de minste :)</p>\n<p>Filmvisningen er tilpasset målgruppen, så det er selvfølgelig rom for både bevegelse, mating, pludring, lek og soving.</p>\n<p>Spør biblioteket om hvilken film som vises.<br>Gratis – Bare møt opp!</p>"
-          }
-        ],
-        "assets": [
-          {
-            "id": 224087,
-            "type_id": 2,
-            "type": "image",
-            "url": "https://mff.dx.no/212321.jpg",
-            "sort_number": 9999,
-            "extension": "jpg",
-            "width": 5040,
-            "height": 2835,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          },
-          {
-            "id": 224088,
-            "type_id": 1,
-            "type": "poster",
-            "url": "https://mff.dx.no/212322.png",
-            "sort_number": 9999,
-            "extension": "png",
-            "width": 2340,
-            "height": 3307,
-            "focal_point_z": null,
-            "focal_point_y": null,
-            "focal_point_x": null,
-            "tags": []
-          }
-        ]
-      },
-      "purchase_url": "https://checkout.ebillett.no/155/events/5497/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5497/purchase?kanal=dxf",
-      "timestamp": "2026-09-29 06:32:02",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": "<p>Film som vises: Life of Pi</p>"
-    },
-    {
-      "id": 1550000005551,
-      "partner_id": 155,
-      "renter_id": 174,
-      "event_id": 5551,
-      "order_id": 3364,
-      "type": "20",
-      "type_text": "Annet",
-      "type_id": 52,
-      "visibility": "hidden",
-      "ticket_sale_type": "closed",
-      "ticket_sale_type_id": 2,
-      "production_reference": "3364",
-      "title": "Sentraladministrasjonen KJØKKEN",
-      "begin": "2026-11-27 16:00:00",
-      "end": "2026-11-27 22:00:00",
-      "duration_trailers": 0,
-      "duration_commercials": 0,
-      "renter": {
-        "id": 174
-      },
-      "location": {
-        "id": 6,
-        "name": "SALONGEN",
-        "begin": "2026-11-27 16:00:00",
-        "end": "2026-11-27 22:00:00"
-      },
-      "highlight": null,
-      "ticket_sales": [
-        {
-          "id": 5551,
-          "active": true,
-          "begin": null,
-          "end": null,
-          "begin_web": "2024-03-02 00:00:00",
-          "end_web": null,
-          "web": false,
-          "sold": 0,
-          "capacity": 0,
-          "reserved": 0,
-          "available": 0,
-          "tickets": null,
-          "price_categories": [
-            {
-              "id": 555100010,
-              "price_category_definition_id": 10,
-              "name": "K.husFRI",
-              "price": 0
-            }
-          ]
-        }
-      ],
-      "ticket_sales_enabled": true,
-      "ticket_sales_active": true,
-      "production": null,
-      "purchase_url": "https://checkout.ebillett.no/155/events/5551/purchase?kanal=dxf",
-      "purchase_url_always": "https://checkout.ebillett.no/155/events/5551/purchase?kanal=dxf",
-      "timestamp": "2026-11-25 13:26:38",
-      "advertisement_flags": [],
-      "advertisement_flags_view": [],
-      "event_tags": [],
-      "note": "<p>onsdag 14. oktober 2026 12:55<br>Til: Daiva Lesinskaite &lt;daiva.lesinskaite@vestre-toten.kommune.no&gt;<br>Emne: Kulturhus kjøkken - ledig fredag 27/11?<br> </p>\n<p>Hei</p>\n<p> </p>\n<p>Vi holder på med planlegging av julebord. Kari Børthus er i front når det gjelder mat, og vi skal lage tapas selv. Er det mulig at vi kan låne kjøkkenet til dette fra klokken 15:00 fredag 27/11? Kari er godt kjent med alt utstyr og rutiner, og vi skal selvsagt rydde opp alt etter oss ?</p>\n<p> </p>\n<p>?<br>Med vennlig hilsen </p>\n<p>Tom Erik Støen Østli </p>"
-    },
     {
       "id": 1550000005549,
       "partner_id": 155,
@@ -1855,6 +1677,132 @@
       "advertisement_flags_view": [],
       "event_tags": [],
       "note": ""
+    },
+    {
+      "id": 1550000005564,
+      "partner_id": 155,
+      "renter_id": 76,
+      "event_id": 5564,
+      "order_id": 3377,
+      "type": "17",
+      "type_text": "Julebord",
+      "type_id": 44,
+      "visibility": "hidden",
+      "ticket_sale_type": "closed",
+      "ticket_sale_type_id": 2,
+      "production_reference": "3377",
+      "title": "Julelunch stab/støtte",
+      "begin": "2026-12-15 08:00:00",
+      "end": "2026-12-15 12:00:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 76
+      },
+      "location": {
+        "id": 6,
+        "name": "SALONGEN",
+        "begin": "2026-12-15 08:00:00",
+        "end": "2026-12-15 12:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5564,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2024-03-20 00:00:00",
+          "end_web": null,
+          "web": false,
+          "sold": 0,
+          "capacity": 0,
+          "reserved": 0,
+          "available": 0,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 556400010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": null,
+      "purchase_url": "https://checkout.ebillett.no/155/events/5564/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5564/purchase?kanal=dxf",
+      "timestamp": "2026-11-12 09:55:57",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": "<p>Møte Marit Jensen 12/11</p>\n<p>Har Ksal fram til kl.12, men hadde tenkt å avslutte møtet i Ksal kl. 11 og ta i bruk salongen til lunch 11-12 . Jeg har ført inn dette i kalender etter møte med Jensen.</p>\n<p>Mtp. at Ksal skal leies ut fra 12 til ekstern leietaker passer det bra at stab/støtte ikke trenger Ksal helt fram til 12, for leietaker skal rigge langbord for 100+ stk. Dette arrangementet skal starte kl. 13, så tilgang på Ksal 11.15 i stedet for 12.00 gjør jobben enklere for ekstern.</p>"
+    },
+    {
+      "id": 1550000005250,
+      "partner_id": 155,
+      "renter_id": 19,
+      "event_id": 5250,
+      "order_id": 3116,
+      "type": "ØVE",
+      "type_text": "Øvelse",
+      "type_id": 28,
+      "visibility": "hidden",
+      "ticket_sale_type": "closed",
+      "ticket_sale_type_id": 2,
+      "production_reference": "3116",
+      "title": "Vestre Toten barne- og ungdomsteater; Øvelse",
+      "begin": "2026-12-16 16:00:00",
+      "end": "2026-12-16 21:00:00",
+      "duration_trailers": 0,
+      "duration_commercials": 0,
+      "renter": {
+        "id": 19
+      },
+      "location": {
+        "id": 1,
+        "name": "FYRVERKERISALEN",
+        "begin": "2026-12-16 16:00:00",
+        "end": "2026-12-16 21:00:00"
+      },
+      "highlight": null,
+      "ticket_sales": [
+        {
+          "id": 5250,
+          "active": true,
+          "begin": null,
+          "end": null,
+          "begin_web": "2024-03-21 00:00:00",
+          "end_web": null,
+          "web": false,
+          "sold": 0,
+          "capacity": 428,
+          "reserved": 0,
+          "available": 428,
+          "tickets": null,
+          "price_categories": [
+            {
+              "id": 525000010,
+              "price_category_definition_id": 10,
+              "name": "K.husFRI",
+              "price": 0
+            }
+          ]
+        }
+      ],
+      "ticket_sales_enabled": true,
+      "ticket_sales_active": true,
+      "production": null,
+      "purchase_url": "https://checkout.ebillett.no/155/events/5250/purchase?kanal=dxf",
+      "purchase_url_always": "https://checkout.ebillett.no/155/events/5250/purchase?kanal=dxf",
+      "timestamp": "2026-01-14 09:56:19",
+      "advertisement_flags": [],
+      "advertisement_flags_view": [],
+      "event_tags": [],
+      "note": "<p>Reservert 14. januar 2026 - Torhild</p>"
     }
   ]
 }
