@@ -288,10 +288,10 @@
           "begin_web": "2026-09-01 15:27:35",
           "end_web": null,
           "web": true,
-          "sold": 398,
+          "sold": 399,
           "capacity": 428,
           "reserved": 0,
-          "available": 30,
+          "available": 29,
           "tickets": null,
           "price_categories": [
             {
@@ -390,7 +390,7 @@
       },
       "purchase_url": "https://checkout.ebillett.no/155/events/5415/purchase?kanal=dxf",
       "purchase_url_always": "https://checkout.ebillett.no/155/events/5415/purchase?kanal=dxf",
-      "timestamp": "2026-11-27 18:23:45",
+      "timestamp": "2026-11-27 19:07:45",
       "advertisement_flags": [],
       "advertisement_flags_view": [],
       "event_tags": [],
