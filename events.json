@@ -289,9 +289,9 @@
           "end_web": null,
           "web": true,
           "sold": 398,
-          "capacity": 427,
+          "capacity": 428,
           "reserved": 0,
-          "available": 29,
+          "available": 30,
           "tickets": null,
           "price_categories": [
             {
@@ -390,7 +390,7 @@
       },
       "purchase_url": "https://checkout.ebillett.no/155/events/5415/purchase?kanal=dxf",
       "purchase_url_always": "https://checkout.ebillett.no/155/events/5415/purchase?kanal=dxf",
-      "timestamp": "2026-11-27 08:23:17",
+      "timestamp": "2026-11-27 09:15:45",
       "advertisement_flags": [],
       "advertisement_flags_view": [],
       "event_tags": [],
@@ -1386,10 +1386,10 @@
           "begin_web": "2026-10-02 12:56:17",
           "end_web": null,
           "web": true,
-          "sold": 93,
-          "capacity": 408,
+          "sold": 95,
+          "capacity": 406,
           "reserved": 0,
-          "available": 315,
+          "available": 311,
           "tickets": null,
           "price_categories": [
             {
@@ -1476,7 +1476,7 @@
       },
       "purchase_url": "https://checkout.ebillett.no/155/events/5281/purchase?kanal=dxf",
       "purchase_url_always": "https://checkout.ebillett.no/155/events/5281/purchase?kanal=dxf",
-      "timestamp": "2026-11-26 21:31:45",
+      "timestamp": "2026-11-27 09:10:43",
       "advertisement_flags": [],
       "advertisement_flags_view": [],
       "event_tags": [],
